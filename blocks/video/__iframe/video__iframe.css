@@ -3,5 +3,6 @@
 	overflow: visible;
 	display: flex;
 	position: relative;
+	border: 0;
 
 }
