@@ -1,8 +1,13 @@
 .video__iframe {
 	width: 515px;
+	height: 316px;
 	overflow: visible;
 	display: flex;
 	position: relative;
 	border: 0;
+	margin-right: 20px;
+}
 
+.video__iframe:nth-child(2n) {
+	margin-right: 0;
 }

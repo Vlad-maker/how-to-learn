@@ -1,5 +1,5 @@
 .section-subtitle {
-  width: 60%;
+  max-width: 60%;
   display: flex;
   justify-content: center;
   margin: 0 auto;
